@@ -1,4 +1,4 @@
-# Shut In Simulator
+# Shut In (Horror Game)
 
 A project for my Computer Science A-Level
 
